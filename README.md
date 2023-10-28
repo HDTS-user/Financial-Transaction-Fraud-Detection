@@ -1,2 +1,7 @@
 # Financial-Transaction-Fraud-Detection
-A repository for the sample files for Financial Transaction Fraud Detection on AWS marketplace
+The Financial Transaction Fraud Detection System is a machine learning-based solution designed to protect financial integrity and security by identifying suspicious transactions. By analyzing transaction data, this system can recognize potential fraudulent activities and flag them for further investigation. This proactive approach helps mitigate the risks associated with financial fraud, ensuring the safety of customers and businesses alike. With its advanced analytics capabilities, the system adapts to evolving patterns and trends, maintaining a robust defense against fraudulent transactions. This solution provides an essential layer of security in today's fast-paced financial landscape.
+
+## Highlights
+1. This solution safeguards businesses and customers by identifying and flagging suspicious transactions in real-time. Whether it's detecting unauthorized credit card usage, monitoring large-scale transactions for money laundering, or uncovering insider trading activities, this system ensures financial integrity and security.
+2. The applications for this solution span banking, insurance, e-commerce, investment firms, and even government sectors. From securing online transactions to preventing insurance fraud and safeguarding investment portfolios, this system's machine-learning capabilities bolster financial integrity in an increasingly digital world.
+3. Need more machine learning, deep learning, NLP, and Quantum Computing solutions. Reach out to us at Harman DTS.
